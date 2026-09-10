@@ -1,7 +1,4 @@
-\# Bayesian Black-Box Optimization (BBO) Capstone Project
-
-
-
+# Bayesian Black-Box Optimization (BBO) Capstone Project
 \## Section 1: Project Overview
 
 
